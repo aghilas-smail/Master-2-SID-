@@ -1,4 +1,4 @@
-mlflow==2.8.0
+mlflow==2.14.2
 cloudpickle==2.2.1
 configparser==5.3.0
 importlib-metadata==6.0.0
